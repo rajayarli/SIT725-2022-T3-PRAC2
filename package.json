@@ -1,5 +1,5 @@
 {
-  "name": "sit725-2022-t3-prac2",
+  "name": "SIT725-2022-T3-PRAC2",
   "version": "1.0.0",
   "description": "SIT725 Prac 2",
   "main": "server.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DaGoblin/sit725-2022-t3-prac2.git"
+    "url": "git+https://github.com/rajayarli/SIT725-2022-T3-PRAC2.git"
   },
   "keywords": [
     "Express",
     "Node"
   ],
-  "author": "Phil Williams",
-  "license": "ISC",
+  "author": "Raja Ramesh Yarlagadda",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DaGoblin/sit725-2022-t3-prac2/issues"
+    "url": "https://github.com/rajayarli/SIT725-2022-T3-PRAC2/issues"
   },
-  "homepage": "https://github.com/DaGoblin/sit725-2022-t3-prac2#readme",
+  "homepage": "https://github.com/rajayarli/SIT725-2022-T3-PRAC2#readme",
   "dependencies": {
     "express": "^4.18.2",
     "node": "^19.1.0"
